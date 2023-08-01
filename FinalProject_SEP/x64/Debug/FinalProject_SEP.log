@@ -1,0 +1,17 @@
+﻿  mian.cpp
+E:\KTH\ID2207\FinalProject_SEP\login.h(726,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(746,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(766,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(786,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(806,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(825,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(844,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(864,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(884,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(904,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(924,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(943,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(962,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\login.h(981,3): warning C4551: 缺少参数列表的函数调用
+E:\KTH\ID2207\FinalProject_SEP\mian.cpp(22,13): warning C4551: 缺少参数列表的函数调用
+  FinalProject_SEP.vcxproj -> E:\KTH\ID2207\FinalProject_SEP\x64\Debug\FinalProject_SEP.exe
